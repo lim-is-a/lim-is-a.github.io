@@ -8,20 +8,24 @@ header{
     text-align: center;
 background-color: royalblue;
 }
-.hello{
+.hello, .thanks{
     display: inline;
 
 }
-.thanks{
-    display: inline;
+hr{
+    border-bottom: slategrey;
+}
+.fullSection{
+    padding:100px 0 200px 0;
 }
 footer{
     display: flex;
+    justify-content: center;
 
 }
-.github{
-    width: 20px;
-    height: 20px;
-    justify-content: center;
-    background: slateblue;
+.githuBox{
+    border: solid black 1px;
+}
+.githubName{
+    display: block;
 }
