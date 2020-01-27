@@ -3,5 +3,25 @@ body{
     font-family: 'Barlow';
 }
 header{
+    margin: 100px;
+    padding: 200px;
     text-align: center;
+background-color: royalblue;
+}
+.hello{
+    display: inline;
+
+}
+.thanks{
+    display: inline;
+}
+footer{
+    display: flex;
+
+}
+.github{
+    width: 20px;
+    height: 20px;
+    justify-content: center;
+    background: slateblue;
 }
