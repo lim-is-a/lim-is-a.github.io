@@ -3,11 +3,27 @@ body{
     background-image: url(https://lh3.googleusercontent.com/5-TcYHK3ocncTtgZEUSopVM7FizI5RRyzxou5Npk-oGTtbyYQRH9vRx8akjPNtcxp_1fSxZnq4rVSx2pboHAfMEtsoCR9XL2SCAgRZVh2KwGCgN7JtXyUMQYmMG7d-jNTEcnAn2UmhRqlQwTO6QRsKm1D0ZRqFVQe23Rj_r2jYqtkLj_ZgM3iG163rWaf-VjfWV3VQBNnCJiuCCRIzc3sADATpseEYZ1uosi74EAdiu_avyieyjEaC142xpzKtITGbIko8aLPu-te-h-9vAK591hwoOPBiC0nFTj41fMQIoICRe31SWcxJSVcQn5axgLHU6GUbpv-WDhe-02iFAEAfouffXsWm7tDeesf1buRcgVIvp2Kx0Zu4A7gCrB8T2sKVwOT7UW4e-rteR__BvZlL53WoTjPKw82u7kj4zuyNQnVyLm9o3bbnhXyDIQb8mZYNvkvXrkYNvLPGIvAb2dGBElOTKk2iFmWKGYYbEZEziyS-DOBT6MhsHovZP7BOm2BNZZU3RC2HMJohoWeZ0hez-CrNWnaWmptTrlGq6PhxyEvAUD2YiKMJDqcGXADjb2ttqqXueNK19vjniVY9hpy5rSXdKyB_9D0ADK7EAhPHYh__SNH969DQuEQ0HNZrbvVP01eXi2BvHwpeoz_pRHB2K3yFrE_a-dNWQZ8StJxP7bn7hEG8qsnu4=w1023-h768-no);
     background-size: cover;
     font-family: 'Barlow';
-
+    background-repeat: no-repeat;
 }
 main{
-    background-color: rgba(88, 245, 255, 0.5);
-    width: fit-content;
-    justify-content: center;
+    width:631px;
+    margin: 20px auto;
 
+}
+.beenTo{
+    font-size: 46px;
+    display: flex;
+
+}
+.placeList {
+    padding: 0;
+}
+.placeList li{
+    display: inline-block;
+    width: 200px;
+    height:100px;
+    margin: 1px 2px;
+    border: solid 2px black;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 }
