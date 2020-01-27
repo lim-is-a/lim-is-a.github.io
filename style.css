@@ -2,8 +2,20 @@ body{
     background-color: rgba(176, 233, 162, 0.404);
     font-family: 'Barlow';
 }
+.mainNav{
+    display: flex;
+}
+.mainNav li{
+display: inline-block;
+padding: 0 10px;
+}
+ .mainNav a {
+    text-decoration: none;
+
+ }
+
 header{
-    margin: 100px;
+    margin: 60px 100px 120px 100px;
     padding: 200px;
     text-align: center;
 background-color: royalblue;
