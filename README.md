@@ -13,9 +13,9 @@ Create a personal portfolio page and deploy it to Github pages. Please refer to 
 - Your CSS should pass the W3 CSS validator.
 - Javascript isn't required, but you get bonus points for giving it a shot!
 - Your page must be deployed to Github pages. This is a free hosting service provided by Github. You should name your repository your-username.github.io. The result is that your page will be publicly available at http://your-username.github.io.
-- You have not been taught how to deploy to Github Pages. That's okay! This is an opportunity to learn something new on your own. Just follow the instructions here. If you run into any issues, just ask the instructor on lab support.
+> You have not been taught how to deploy to Github Pages. That's okay! This is an opportunity to learn something new on your own. Just follow the instructions here. If you run into any issues, just ask the instructor on lab support.
 
-Make sure to look at the evaluation page for more input concerning how the homework will be graded.
+Make sure to look at the [evaluation page](evaluation.md) for more input concerning how the homework will be graded.
 
 ### Submission
 Your submission should contain a link to the repo you created -- not the webpage. So your submission should contain http://github.com/your-username/your-username.github.io, for example, and not http://your-username.github.io.
@@ -28,7 +28,7 @@ Every student must create their own website, but you're welcome and encouraged t
 
 - Think about the goal for your site and what you want your users to do (read about your story, look at your work/code/writing, contact you). Guide them to taking those actions by making them prominent / easy to find.
 
-- Wireframe what you want your site to look like first!
+- **Wireframe** what you want your site to look like first!
 
 - Use proper indentation and organize your code. Chances are people will view your source!
 
@@ -55,7 +55,7 @@ You can also Google "developer portfolio website" for more ideas :)
 
 Sass
 
-If you'd like, try adding some Sass to your portfolio site.
+If you'd like, try adding some [Sass](http://sass-lang.com/) to your portfolio site.
 
 Particuarly, look into using:
 
@@ -65,5 +65,5 @@ Particuarly, look into using:
 
 If you want to explore Sass more, look into:
 
-- Use a color function: darken, lighten, etc.
+- Use a [color function](http://sass-lang.com/documentation/Sass/Script/Functions.html): `darken`, `lighten`, etc.
 - Use a function to create 3d effects, like https://jesse.sh/makes-3d-buttons-with-sass/
